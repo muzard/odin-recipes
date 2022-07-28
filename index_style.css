@@ -6,6 +6,7 @@ h1 {
     margin: -8px -8px 0px -8px;
     text-align: center;
     padding: 10px;
+    border: 10px solid #597722;
 }
 
 li {
