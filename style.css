@@ -3,6 +3,9 @@ h1 {
     background-color: #d6ee028f;
     font-size: 56px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: -8px -8px 0px -8px;
+    text-align: center;
+    padding: 10px;
 }
 
 li {
